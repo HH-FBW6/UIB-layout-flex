@@ -1,10 +1,8 @@
-/* Use flexbox to display all divs in one column in the center of the page.*/
-
-body {
+.container {
     border: 5px solid red;
 }
 
-div {
+.container > div {
     height: 100px;
     width: 150px; 
     background-color: darkgray;

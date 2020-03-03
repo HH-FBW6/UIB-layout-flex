@@ -1,7 +1,4 @@
-/* Use flexbox to align the divs in a row. Reverse the order of the divs. */
-
-
-div {
+.container > div {
     height: 100px;
     width: 150px;
     background-color: darkgray;

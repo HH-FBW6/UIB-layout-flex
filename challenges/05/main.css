@@ -1,13 +1,10 @@
-/* Use flexbox to display the divs on one row in the center of the container */
-
-body {
+.container {
     border: 5px solid red;
 }
 
-div {
+.container > div {
     flex-shrink: 1;
     height: 100px;
-    /* width: 150px;  */
     background-color: darkgray;
     margin: 1em;
     border: 2px solid red;

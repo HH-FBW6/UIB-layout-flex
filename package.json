@@ -1,0 +1,22 @@
+{
+  "name": "uib-layout-flex",
+  "version": "1.0.0",
+  "description": "**Instructions for each folder**:",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalCareerInstitute/UIB-layout-flex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalCareerInstitute/UIB-layout-flex/issues"
+  },
+  "homepage": "https://github.com/DigitalCareerInstitute/UIB-layout-flex#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
